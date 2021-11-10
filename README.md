@@ -1,0 +1,2 @@
+# QuadraticEquation
+Calculates quadratic equation
